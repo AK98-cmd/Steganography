@@ -1,0 +1,26 @@
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\bin\Debug\SI.exe.config
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\bin\Debug\SI.exe
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\bin\Debug\SI.pdb
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.csprojResolveAssemblyReference.cache
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.Properties.Resources.resources
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.csproj.GenerateResource.Cache
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.exe
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.pdb
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.Meniu.resources
+c:\users\ragnarok\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.Criptare.resources
+C:\Users\ragnarok\Documents\Visual Studio 2013\Projects\SI\SI\obj\Debug\SI.RSA_Encryption.resources
+C:\Users\ragnarok\Documents\Visual Studio 2013\Projects\SI\SI\obj\Debug\SI.Symmetric_Encryption.resources
+C:\Users\ragnarok\Documents\Visual Studio 2013\Projects\SI\SI\obj\Debug\SI.Decriptare.resources
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\bin\Debug\SI.exe.config
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.exe
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.pdb
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\bin\Debug\SI.exe
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\bin\Debug\SI.pdb
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.csprojResolveAssemblyReference.cache
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.Criptare.resources
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.Decriptare.resources
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.Meniu.resources
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.Properties.Resources.resources
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.RSA_Encryption.resources
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.Symmetric_Encryption.resources
+D:\Proiecte\~~~\Steganography - hidden ciphertext\SI\obj\Debug\SI.csproj.GenerateResource.Cache
